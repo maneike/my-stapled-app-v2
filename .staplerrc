@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "projectName": "my-stapled-app",
+  "stepsCompleted": {
+    "createTurbo": true,
+    "modifyGitignore": true,
+    "installTailwind": true,
+    "modifyHomepage": true,
+    "installSupabase": true,
+    "installPayload": true,
+    "createDocFiles": true,
+    "prettifyCode": true,
+    "prepareDrink": false,
+    "initializeRepository": true,
+    "pushToGitHub": false,
+    "createSupabaseProject": false,
+    "chooseVercelTeam": false,
+    "linkVercelProject": false,
+    "updateVercelProjectSettings": false,
+    "connectSupabaseProject": false,
+    "deployVercelProject": false
+  },
+  "options": {
+    "name": "my-stapled-app",
+    "usePayload": true
+  },
+  "githubCandidateName": "my-stapled-app-v2",
+  "selectedAccount": "maneike",
+  "prettyDeploymentUrl": ""
+}
